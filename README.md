@@ -1,28 +1,46 @@
-## Sarvpreet Singh
-- Age: 21
-- Hobby:
-    1. Book Reading
-    2. Video Games
+# 👋 Hi, I'm Sarvpreet Singh
+![Typing](https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=Full+Stack+Developer;ML+Learner;Future+Builder)
 
-## Skills
-### Full-Stack Web Development
-![HTML](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fde.w3docs.com%2Fuploads%2Fmedia%2Fbook_gallery%2F0001%2F02%2F849d4286475e04155fd5f21861f16f53db95ac72.png&f=1&nofb=1&ipt=58a2ed7d6f7d6a714623881975224b525356d8cdbcb9f9cecaf62c0bf8e9ee8f)
+## 🧑‍💻 About Me
+- 🎂 Age: 21  
+- 📚 Hobby:
+  1. Book Reading
+  2. Video Games  
 
-## Website
-[codeSarv.com](https://codesarv.com)
+---
 
-## Social
-| Social Account | Link |
-|----------------|------|
-| Linkedin       | https://www.linkedin.com/in/sarvpreet-singh104/ |
-| Instagram      | https://www.instagram.com |
+## 🛠️ Skills
 
-## Goals
-- [x] Get better than your past self
-- [] Success
+### 🌐 Full-Stack Web Development
+![HTML](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fde.w3docs.com%2Fuploads%2Fmedia%2Fbook_gallery%2F0001%2F02%2F849d4286475e04155fd5f21861f16f53db95ac72.png)
 
-## Favorite Language
-Use `PYTHON`
+### 🤖 Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 🌍 Website
+🔗 [codeSarv.com](https://codesarv.com)
+
+---
+
+## 📱 Socials
+
+| Platform   | Link |
+|------------|------|
+| LinkedIn   | https://www.linkedin.com/in/sarvpreet-singh104/ |
+| Instagram  | https://www.instagram.com |
+
+---
+
+## 🎯 Goals
+- [x] Get better than your past self  
+- [ ] Achieve success  
+
+---
+
+## 💻 Favorite Language
+I love working with `Python` 🐍
 
 ```python
 print("Hello, world!")
@@ -34,4 +52,6 @@ print("Hello, world!")
 
 ---
 
-<div style="color: blue; padding: 10px 5px; border-radius: 9999px">Read more...</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME)
+
+---

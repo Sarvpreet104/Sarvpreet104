@@ -52,6 +52,6 @@ print("Hello, world!")
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME)
+![Stats](https://github-readme-stats.vercel.app/api?username=Sarvpreet104)
 
 ---

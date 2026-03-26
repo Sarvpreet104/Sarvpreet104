@@ -6,7 +6,7 @@
 
 I'm a 21-year-old developer who enjoys building things that actually solve problems.
 
-### Currently working at the intersection of:
+### Working at the intersection of:
 
 - **🌐 Full-Stack Development**
 - **🤖 Machine Learning**
@@ -22,17 +22,17 @@ I'm a 21-year-old developer who enjoys building things that actually solve probl
 
 ### 🌐 Full-Stack Web Development
 
-![HTML](https://img.shields.io/badge/HTML-FF1F22?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-21BCFF?style=for-the-badge&logo=css&logoColor=white)
-![Java Sript](https://img.shields.io/badge/JAVASCRIPT-FDC745?style=for-the-badge&logo=javascript&logoColor=262626)
-![Node.js](https://img.shields.io/badge/NODE.js-2AA63E?style=for-the-badge&logo=node.js&logoColor=white)
-![Type Script](https://img.shields.io/badge/TYPESCRIPT-2B7FFF?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-46ECD5?style=for-the-badge&logo=tailwindcss&logoColor=262626)
-![MongoDB](https://img.shields.io/badge/MONGO_DB-016630?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgre SQL](https://img.shields.io/badge/POSTGRE_SQL-51A2FF?style=for-the-badge&logo=postgresql&logoColor=white)
-![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-FF692A?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/GITHUB-1E1A4D?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🤖 Machine Learning
 
